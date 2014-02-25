@@ -1,6 +1,6 @@
 #
 # PacketGen v1.3
-# packet_generator.pl
+# PacketGen.pl
 # this script read tcpdump file with cpan Net::Pcap
 # then send the correspondence packet to the designated IP address through socket
 # 
